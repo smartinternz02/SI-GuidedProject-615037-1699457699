@@ -3,10 +3,10 @@
 ## Team ID - 592341
 
 ## Team Members 
-Ishanvi Kotha
-Devanshi Patel
-Pratyush Abhi
-Sneha Vejju
+- Ishanvi Kotha
+- Devanshi Patel
+- Pratyush Abhi
+- Sneha Vejju
 
 ## Some files were very large and hence we could not upload them here (GitHub). The link for those files will be provided below. 
 
